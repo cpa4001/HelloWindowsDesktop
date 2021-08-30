@@ -1,3 +1,3 @@
 # HelloWindowsDesktop
 
-![alt text](https://github.com/[cpa4001]/[HelloWindowsDesktop]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/[cpa4001]/[HelloWindowsDesktop]/blob/[master]/"Hello, Windows desktop".PNG?raw=true)
